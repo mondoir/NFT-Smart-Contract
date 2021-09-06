@@ -1355,7 +1355,7 @@ pragma solidity ^ 0.8 .2;
 
 
 
-contract #YOURCONTRACTNAME # is ERC721, ERC721Enumerable, ERC721URIStorage, ERC721Burnable, Ownable {
+contract #YOURCONTRACTNAME# is ERC721, ERC721Enumerable, ERC721URIStorage, ERC721Burnable, Ownable {
 
 	using Strings
 	for uint256;
